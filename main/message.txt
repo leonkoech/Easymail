@@ -1,0 +1,6 @@
+Greetings  $Name_of_human,
+
+Here's the book you requested me to send you.
+
+Regards,
+$My_name
