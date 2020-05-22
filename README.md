@@ -33,5 +33,8 @@ A demo with a tiny list of contacts
 
 ![easymail](https://user-images.githubusercontent.com/39020723/82593050-89640300-9baa-11ea-9634-5b0015a57670.gif)
 
+## License
+
+This project is under the [mit](#) license.
 
 
