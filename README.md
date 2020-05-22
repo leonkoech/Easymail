@@ -39,4 +39,4 @@ This project is under the [mit](https://github.com/leonkoech/Easymail/blob/maste
 
 ## Contributions
 
-Read the [Contribution](#) guide.
+Read the [Contribution](https://github.com/leonkoech/Easymail/blob/master/contributions.md) guide.
