@@ -35,6 +35,6 @@ A demo with a tiny list of contacts
 
 ## License
 
-This project is under the [mit](#) license.
+This project is under the [mit](https://github.com/leonkoech/Easymail/blob/master/License) license.
 
 
